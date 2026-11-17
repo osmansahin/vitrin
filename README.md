@@ -105,3 +105,12 @@ Gülloş desenli güvenlik baskılı biletler, koçan çizgisi, perforaj ve kır
 Kök tasarıma en yakın sade tek sayfa Riso yorumu. Üç mürekkep kalıbı tek canvas şeridinde birleşip alttan kesintisiz kayar; `P` tuşuyla 10 farklı Wada Sanzo paleti arasında geçiş yapılır.
 
 ![Riso Panorama](screenshots/riso.png)
+
+---
+
+## Lisans ve Kullanım
+
+Bu tasarımlar [0BSD](LICENSE) lisansı altındadır. İstediğiniz gibi kullanabilir, değiştirebilir ve kendi işlerinize uyarlayabilirsiniz. Atıf zorunlu değildir; yine de kaynak gösterirseniz sevinirim.
+
+[Osman Şahin](https://sahinosman.com) tarafından tasarlanmıştır.
+
